@@ -2,7 +2,9 @@ name := "scoverage-samples"
 
 organization := "org.scoverage"
 
-version := "0.99.5"
+buildversion.base := "0.99.5"
+
+version := buildversion.base.value + "-" + buildversion.revision
 
 scalaVersion := "2.11.0"
 
