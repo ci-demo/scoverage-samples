@@ -1,8 +1,7 @@
 scoverage-samples
 ==================
 
-[![Build Status](https://travis-ci.org/scoverage/scoverage-samples.png?branch=master)](https://travis-ci.org/scoverage/scoverage-samples)
-[![Coverage Status](https://coveralls.io/repos/scoverage/scoverage-samples/badge.png)](https://coveralls.io/r/scoverage/scoverage-samples)
+[![Build Status](http://jenkins-juliogonzalez.rhcloud.com/job/scoverage-samples-build/badge/icon)](http://jenkins-juliogonzalez.rhcloud.com/job/scoverage-samples-build/)
 
 
 A sample program for demonstrating scoverage's code coverage. This sample is an akka based mock quote engine. Note: This project deliberately doesn't have 100% coverage for demonstration purposes.
