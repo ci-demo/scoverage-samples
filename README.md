@@ -1,7 +1,7 @@
 scoverage-samples
 ==================
 
-[![Build Status](http://jenkins-juliogonzalez.rhcloud.com/job/scoverage-samples-build/badge/icon)](http://jenkins-juliogonzalez.rhcloud.com/job/scoverage-samples-build/)
+[![Build Status](https://jenkins.juliogonzalez.es/job/scoverage-samples-build/badge/icon)](https://jenkins.juliogonzalez.es/job/scoverage-samples-build/)
 
 
 A sample program for demonstrating scoverage's code coverage. This sample is an akka based mock quote engine. Note: This project deliberately doesn't have 100% coverage for demonstration purposes.
